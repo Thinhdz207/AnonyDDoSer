@@ -193,7 +193,7 @@ def logo():
   ( ==  ^  == )   88"""   dP__Yb  o.`Y8b o.`Y8b  8I  dY  8I  dY Yb   dP o.`Y8b
    )         (    88     dP""""Yb 8bodP' 8bodP' 8888Y"  8888Y"   YbodP  8bodP'
   (           )   ========================================================
- ( (  )   (  ) )     Anonymous DDoSer v2.8 - Best HTTP Flooder For FREE
+ ( (  )   (  ) )     DDoSer v2.8 - By Nguyen Huy Thinh dz
 (__(__)___(__)__) ===== Version: [ Private ]''')
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
