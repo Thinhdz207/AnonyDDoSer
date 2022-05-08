@@ -1,11 +1,7 @@
-
-#[+]==============[ Contact ]===========[+]#
-# # Discord: PassDDoS#6595               # #
-# # ICQ    : @passddos                   # #
-# # Tele   : https://t.me/PassDDoS       # #
-# # Email  : passddos@gmail.com          # #
-# # Github : https://github.com/PassDDoS # #
-#[+]====================================[+]#
+#[+]==============[ Contact ]=========================[+]#
+# # FB    : Facebook.com/NHT123.FB                     # #
+# # Email  : nguyenhuythinh.contact@gmail.com          # #
+#[+]==================================================[+]#
 
 import os, sys
 
@@ -186,15 +182,14 @@ def logo():
     else:
         os.system('color ' +random.choice(['a', 'b', 'c', 'd'])+ " & cls & title Download: bit.ly/AnonyV28 ~ Anonymous DDoSer v2.8")
     print('''
-             - PassDDoS#6595 Selling Bypass JS/UAM/Captcha/etc -
-
-    /\_____/\     88""Yb    db    .dP"Y8 .dP"Y8 8888b.  8888b.   dP"Yb  .dP"Y8
-   /  o   o  \    88__dP   dPYb   `Ybo." `Ybo."  8I  Yb  8I  Yb dP   Yb `Ybo."
-  ( ==  ^  == )   88"""   dP__Yb  o.`Y8b o.`Y8b  8I  dY  8I  dY Yb   dP o.`Y8b
-   )         (    88     dP""""Yb 8bodP' 8bodP' 8888Y"  8888Y"   YbodP  8bodP'
-  (           )   ========================================================
- ( (  )   (  ) )     DDoSer v2.8 - By Nguyen Huy Thinh dz
-(__(__)___(__)__) ===== Version: [ Private ]''')
+TTTTTTTTTTTTT   H      H        I      N       N      H      H
+      T         H      H        I      N N     N      H      H
+      T         H      H        I      N  N    N      H      H
+      T         HHHHHHHH        I      N   N   N      HHHHHHHH
+      T         H      H        I      N    N  N      H      H
+      T         H      H        I      N     N N      H      H
+      T         H      H        I      N      N       H      H
+Tool ddos chống bị vào tù by Nguyen Huy Thinh dz =)))) ( nếu dùng link thì chọn 1-4 còn nếu ip thì 5-6) ''')
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
     except:
@@ -898,3 +893,4 @@ class synflood(threading.Thread):
 
 if __name__ == '__main__':
     start_url()
+    
