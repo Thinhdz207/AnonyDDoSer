@@ -190,7 +190,7 @@ TTTTTTTTTTTTT   H      H        I      N       N      H      H
       T         H      H        I      N    N  N      H      H
       T         H      H        I      N     N N      H      H
       T         H      H        I      N      N       H      H
-Tool ddos chống bị vào tù by Nguyen Huy Thinhdz =)))) ( nếu dùng link thì chọn 1-4 còn nếu ip thì 5-6)
+Tool ddos chống bị vào tù by Nguyen Huy Thinh dz =)))) ( nếu dùng link thì chọn 1-4 còn nếu ip thì 5-6) ''')
     try:
         print("\n[*] Target : " +str(url_main)+ ":" +str(port))
     except:
